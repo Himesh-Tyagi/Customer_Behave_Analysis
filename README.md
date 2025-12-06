@@ -15,6 +15,8 @@ Preparing a professional presentation using Gamma
 
 This project demonstrates practical skills in data analysis, visualization, and business insights generation.
 
+Link =https://app.powerbi.com/view?r=eyJrIjoiNDNmZTJhNzQtNzkxNS00ODBjLTk1YmEtNDY4NjEwYTEwZTE3IiwidCI6IjFiMmQ3ZTFlLTEyOWQtNDMxYS1hY2U3LWE2YzdmZmU0MTg5ZSJ9
+
 📁 Dataset
 
 The dataset contains customer-level transaction and behavioral information, including:
