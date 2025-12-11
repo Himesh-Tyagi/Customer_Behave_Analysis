@@ -11,7 +11,7 @@ st.set_page_config(page_title="Customer Behaviour Analysis Project", layout="wid
 POWER_BI_URL = "https://app.powerbi.com/view?r=eyJrIjoiNDNmZTJhNzQtNzkxNS00ODBjLTk1YmEtNDY4NjEwYTEwZTE3IiwidCI6IjFiMmQ3ZTFlLTEyOWQtNDMxYS1hY2U3LWE2YzdmZmU0MTg5ZSJ9"
 
 IMG1 = "C:/Users/DELL PC/OneDrive/Pictures/Screenshots/Screenshot 2025-12-06 113328.png"
-IMG2 = "C:/Users/DELL PC/OneDrive/Pictures/Screenshots/Screenshot 2025-12-06 104433.png"
+IMG2 = "C:/Users/DELL PC/Music/project/Screenshot 2025-12-06 104433.png"
 
 PDF_PATH = "C:/Users/DELL PC/Music/Customer Behave Dashboard.pdf"
 PPTX_PATH = "C:/Users/DELL PC/Downloads/Customer-Shopping-Behavior-Analysis.pptx"
@@ -168,4 +168,5 @@ if st.session_state.page == "home":
     home_page()
 else:
     resources_page()
+
     
