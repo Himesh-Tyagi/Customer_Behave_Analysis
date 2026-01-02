@@ -1,0 +1,20 @@
+Software Requirements
+* Power BI Desktop (Latest Version)
+* Microsoft Excel / CSV files
+* Windows 10 or above
+* Web Browser (Chrome / Edge) – Power BI Service 
+* SQL
+
+Hardware Requirements
+* Processor: Intel i3 or higher
+* RAM: Minimum 8 GB (Recommended)
+* Storage: 5 GB free disk space
+* Display: 1366×768 resolution or higher
+
+Data Requirements
+* Structured dataset (CSV / Excel / SQL)
+* Clean & formatted data
+* Columns with numerical & categorical values
+* Date column (for time-based analysis – optional but recommended)
+
+
