@@ -107,7 +107,7 @@ The dataset contains customer-level transaction and behavioral information, incl
 
 - Two-page interactive dashboard created:
 
-**Page 1 ** – Overview Dashboard
+**Page 1** – Overview Dashboard
 
 - KPIs: Average Rating, Total Customers, Avg Purchase Amount
 
