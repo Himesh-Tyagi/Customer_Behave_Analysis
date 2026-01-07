@@ -66,86 +66,87 @@ The dataset contains customer-level transaction and behavioral information, incl
 
 ---
 
-🔍 Project Steps
+🔍 Project Steps:
+
 **1.** **Data Loading & Cleaning (Python)**
 
-Importing dataset
+- Importing dataset
 
-Handling missing values
+- Handling missing values
 
-Formatting numerical & categorical fields
+- Formatting numerical & categorical fields
 
-Feature creation (age groups, purchase frequency categories, etc.)
+- Feature creation (age groups, purchase frequency categories, etc.)
 
 **2. Exploratory Data Analysis (EDA)**
 
-Distribution analysis (age, price, category)
+- Distribution analysis (age, price, category)
 
-Relationship analysis (payment method vs amount, reviews, frequency)
+- Relationship analysis (payment method vs amount, reviews, frequency)
 
-Trend analysis (season, shipping type, color preference)
+- Trend analysis (season, shipping type, color preference)
 
 **3. SQL Analysis (MySQL)**
 
-Executed analytical SQL queries such as:
+- Executed analytical SQL queries such as:
 
-Top customers by purchase amount
+- Top customers by purchase amount
 
-Revenue by category & season
+- Revenue by category & season
 
-Most used shipping type
+- Most used shipping type
 
-Promo-code performance
+- Promo-code performance
 
-Repeat purchasers & retention indicators
+- Repeat purchasers & retention indicators
 
-Payment method contribution
+- Payment method contribution
 
 **4. Power BI Dashboard**
 
-Two-page interactive dashboard created:
+- Two-page interactive dashboard created:
 
 **Page 1 ** – Overview Dashboard
 
-KPIs: Average Rating, Total Customers, Avg Purchase Amount
+- KPIs: Average Rating, Total Customers, Avg Purchase Amount
 
-Revenue by Category
+- Revenue by Category
 
-Sales by Category
+- Sales by Category
 
-Subscription Status Analysis
+- Subscription Status Analysis
 
-Age Group Insights
+- Age Group Insights
 
-Customer demographic filters
+- Customer demographic filters
 
 **Page 2** – Advanced Insights
 
-Seasonal Trends
+- Seasonal Trends
 
-Payment Method Analysis
+- Payment Method Analysis
 
-Promo-Code Effectiveness
+- Promo-Code Effectiveness
 
-Shipping Type Spend
+- Shipping Type Spend
 
-Color Popularity
+- Color Popularity
 
-Repeat Purchase Patterns
+- Repeat Purchase Patterns
 
-Size Preference (Treemap)
+- Size Preference (Treemap)
 
 **5. Presentation (Gamma AI)**
 
 A clean, professional presentation summarizing:
 
-Project aim
+- Project aim
 
-Dataset
+- Dataset
 
-EDA findings
+- EDA findings
 
-Power BI insights
+- Power BI insights
 
 ---
 
