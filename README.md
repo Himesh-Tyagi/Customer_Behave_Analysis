@@ -62,7 +62,7 @@ Auto-designed professional presentations
 Jupyter Notebook 
 
 Development environment
-
+---
 🔍 Project Steps
 1. Data Loading & Cleaning (Python)
 
@@ -144,7 +144,7 @@ EDA findings
 
 Power BI insights
 
-Final recommendations
+---
 
 📈 Results & Key Insights
 
@@ -161,3 +161,6 @@ Observed payment method trends (high-spend users prefer digital payments)
 Found positive correlation between previous purchases and review ratings
 
 These insights can help retailers optimize inventory, marketing, and customer retention strategies.
+---
+**Himesh Tyagi**
+**Data Analyst**
