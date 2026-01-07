@@ -1,19 +1,20 @@
 # Customer_Behave_Analysis
-📊 Data Analyst – Customer Insights & Analytics Project
-⭐ Overview
+**📊 Data Analyst – Customer Insights & Analytics Project**
+---
 
-Data Analyst is an end-to-end data analytics project built to analyze customer behavior, purchasing patterns, and business performance.
-The project covers the complete analytics workflow:
+**⭐ Overview**
 
-Data cleaning & exploration using Python (EDA)
+- Data Analyst is an end-to-end data analytics project built to analyze customer behavior, purchasing patterns, and business performance.The project covers the complete analytics workflow:
 
-Running analytical SQL queries in MySQL
+-Data cleaning & exploration using Python (EDA)
 
-Creating powerful Power BI dashboards
+-Running analytical SQL queries in MySQL
 
-Preparing a professional presentation using Gamma
+-Creating powerful Power BI dashboards
 
-This project demonstrates practical skills in data analysis, visualization, and business insights generation.
+-Preparing a professional presentation using Gamma
+
+-This project demonstrates practical skills in data analysis, visualization, and business insights generation.
 
 ---
 Link =https://app.powerbi.com/view?r=eyJrIjoiNDNmZTJhNzQtNzkxNS00ODBjLTk1YmEtNDY4NjEwYTEwZTE3IiwidCI6IjFiMmQ3ZTFlLTEyOWQtNDMxYS1hY2U3LWE2YzdmZmU0MTg5ZSJ9
@@ -167,5 +168,8 @@ A clean, professional presentation summarizing:
 - These insights can help retailers optimize inventory, marketing, and customer retention strategies.
 
 ---
+
 **Himesh Tyagi**
 **Data Analyst**
+
+---
