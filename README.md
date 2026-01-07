@@ -22,53 +22,52 @@ Link =https://app.powerbi.com/view?r=eyJrIjoiNDNmZTJhNzQtNzkxNS00ODBjLTk1YmEtNDY
 
 The dataset contains customer-level transaction and behavioral information, including:
 
-Customer demographics (age, gender, location)
+- Customer demographics (age, gender, location)
 
-Product details (category, item purchased, size, color, season)
+- Product details (category, item purchased, size, color, season)
 
-Transactions & purchase amount
+- Transactions & purchase amount
 
-Review ratings
+- Review ratings
 
-Subscription status
+- Subscription status
 
-Shipping types
+-  Shipping types
 
-Previous purchases & purchase frequency
+- Previous purchases & purchase frequency
 
-Payment method
+- Payment method
 
-The dataset is used for cleaning, EDA, SQL analysis, and Power BI dashboards.4
 
 ---
 🛠️ Tools & Technologies
 
-Python
+- Python
 
-Pandas, NumPy for data manipulation
+- Pandas, NumPy for data manipulation
 
-Matplotlib/Seaborn for EDA & visual exploration
+- Matplotlib/Seaborn for EDA & visual exploration
 
-MySQL
+- MySQL
 
-SQL queries for insights and aggregations
+- SQL queries for insights and aggregations
 
-Power BI
+- Power BI
 
-Interactive data dashboards
+- Interactive data dashboards
 
-Gamma
+- Gamma
 
-Auto-designed professional presentations
+- Auto-designed professional presentations
 
-Jupyter Notebook 
+- Jupyter Notebook 
 
-Development environment
+- Development environment
 
 ---
 
 🔍 Project Steps
-1. Data Loading & Cleaning (Python)
+**1.** **Data Loading & Cleaning (Python)**
 
 Importing dataset
 
@@ -78,7 +77,7 @@ Formatting numerical & categorical fields
 
 Feature creation (age groups, purchase frequency categories, etc.)
 
-2. Exploratory Data Analysis (EDA)
+**2. Exploratory Data Analysis (EDA)**
 
 Distribution analysis (age, price, category)
 
@@ -86,7 +85,7 @@ Relationship analysis (payment method vs amount, reviews, frequency)
 
 Trend analysis (season, shipping type, color preference)
 
-3. SQL Analysis (MySQL)
+**3. SQL Analysis (MySQL)**
 
 Executed analytical SQL queries such as:
 
@@ -102,11 +101,11 @@ Repeat purchasers & retention indicators
 
 Payment method contribution
 
-4. Power BI Dashboard
+**4. Power BI Dashboard**
 
 Two-page interactive dashboard created:
 
-Page 1 – Overview Dashboard
+**Page 1 ** – Overview Dashboard
 
 KPIs: Average Rating, Total Customers, Avg Purchase Amount
 
@@ -120,7 +119,7 @@ Age Group Insights
 
 Customer demographic filters
 
-Page 2 – Advanced Insights
+**Page 2** – Advanced Insights
 
 Seasonal Trends
 
@@ -136,7 +135,7 @@ Repeat Purchase Patterns
 
 Size Preference (Treemap)
 
-5. Presentation (Gamma AI)
+**5. Presentation (Gamma AI)**
 
 A clean, professional presentation summarizing:
 
@@ -150,21 +149,21 @@ Power BI insights
 
 ---
 
-📈 Results & Key Insights
+**📈 Results & Key Insights**
 
-Identified top-performing product categories and seasons
+- Identified top-performing product categories and seasons
 
-Detected most profitable customer segments
+- Detected most profitable customer segments
 
-Found shipping types influencing high-value purchases
+- Found shipping types influencing high-value purchases
 
-Highlighted colors & sizes most preferred by buyers
+- Highlighted colors & sizes most preferred by buyers
 
-Observed payment method trends (high-spend users prefer digital payments)
+- Observed payment method trends (high-spend users prefer digital payments)
 
-Found positive correlation between previous purchases and review ratings
+- Found positive correlation between previous purchases and review ratings
 
-These insights can help retailers optimize inventory, marketing, and customer retention strategies.
+- These insights can help retailers optimize inventory, marketing, and customer retention strategies.
 
 ---
 **Himesh Tyagi**
