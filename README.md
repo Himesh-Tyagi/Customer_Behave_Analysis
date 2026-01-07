@@ -14,6 +14,7 @@ Creating powerful Power BI dashboards
 Preparing a professional presentation using Gamma
 
 This project demonstrates practical skills in data analysis, visualization, and business insights generation.
+
 ---
 Link =https://app.powerbi.com/view?r=eyJrIjoiNDNmZTJhNzQtNzkxNS00ODBjLTk1YmEtNDY4NjEwYTEwZTE3IiwidCI6IjFiMmQ3ZTFlLTEyOWQtNDMxYS1hY2U3LWE2YzdmZmU0MTg5ZSJ9
 
@@ -37,7 +38,8 @@ Previous purchases & purchase frequency
 
 Payment method
 
-The dataset is used for cleaning, EDA, SQL analysis, and Power BI dashboards.
+The dataset is used for cleaning, EDA, SQL analysis, and Power BI dashboards.4
+
 ---
 🛠️ Tools & Technologies
 
@@ -62,7 +64,9 @@ Auto-designed professional presentations
 Jupyter Notebook 
 
 Development environment
+
 ---
+
 🔍 Project Steps
 1. Data Loading & Cleaning (Python)
 
@@ -161,6 +165,7 @@ Observed payment method trends (high-spend users prefer digital payments)
 Found positive correlation between previous purchases and review ratings
 
 These insights can help retailers optimize inventory, marketing, and customer retention strategies.
+
 ---
 **Himesh Tyagi**
 **Data Analyst**
