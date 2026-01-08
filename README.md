@@ -168,8 +168,8 @@ A clean, professional presentation summarizing:
 - These insights can help retailers optimize inventory, marketing, and customer retention strategies.
 
 ---
-
-**Himesh Tyagi**
-**Data Analyst**
-
+## 📬 Contact
+**Himesh Tyagi**  
+🎓 B.Tech in Computer Science  
+📊 Aspiring Data Analyst  
 ---
